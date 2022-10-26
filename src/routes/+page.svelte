@@ -1,31 +1,17 @@
-<script>
-	import Counter from './Counter.svelte';
-	import welcome from '$lib/images/svelte-welcome.webp';
-	import welcome_fallback from '$lib/images/svelte-welcome.png';
-</script>
-
 <svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<title>Ekon - Home</title>
+	<meta name="description" content="Ekon food donation game" />
 </svelte:head>
 
 <section>
-	<h1>
-		<span class="welcome">
-			<picture>
-				<source srcset={welcome} type="image/webp" />
-				<img src={welcome_fallback} alt="Welcome" />
-			</picture>
-		</span>
-
-		to your new<br />SvelteKit app
-	</h1>
-
-	<h2>
-		try editing <strong>src/routes/+page.svelte</strong>
-	</h2>
-
-	<Counter />
+	<div class="content">
+		<p class="africa-text">n</p>
+		<p>
+			When you play our African Trivia game, we make money through web monetisation and our proceeds
+			are donated towards a charity fighting child malnutrition in Africa
+		</p>
+		<a href="/play">Play to make a difference</a>
+	</div>
 </section>
 
 <style>
@@ -34,26 +20,33 @@
 		flex-direction: column;
 		justify-content: center;
 		align-items: center;
-		flex: 0.6;
+		color: rgb(223, 126, 82);
+		height: 85vh;
+		background-image: url('https://img.freepik.com/free-vector/flat-african-pattern-design_23-2149376292.jpg?w=2000');
+		background-repeat: repeat;
 	}
 
-	h1 {
-		width: 100%;
+	a {
+		padding: 10px 30px;
+		background-color: yellow;
+		color: rgb(41, 20, 10);
+		text-decoration: none;
+		font-weight: bold;
 	}
 
-	.welcome {
-		display: block;
-		position: relative;
-		width: 100%;
-		height: 0;
-		padding: 0 0 calc(100% * 495 / 2048) 0;
+	.content {
+		background-color: rgb(41, 20, 10);
+		max-width: 500px;
+		padding: 20px;
+		text-align: center;
+		height: 50vh;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
 	}
 
-	.welcome img {
-		position: absolute;
-		width: 100%;
-		height: 100%;
-		top: 0;
-		display: block;
+	.africa-text {
+		font-family: 'WILD AFRICA', sans-serif;
+		font-size: 6rem;
 	}
 </style>

@@ -4,23 +4,36 @@
 </svelte:head>
 
 <div class="text-column">
-	<h1>About this app</h1>
-
-	<p>
-		This is a <a href="https://kit.svelte.dev">SvelteKit</a> app. You can make your own by typing the
-		following into your command line and following the prompts:
-	</p>
-
-	<pre>npm create svelte@latest</pre>
-
-	<p>
-		The page you're looking at is purely static HTML, with no client-side interactivity needed.
-		Because of that, we don't need to load any JavaScript. Try viewing the page's source, or opening
-		the devtools network panel and reloading.
-	</p>
-
-	<p>
-		The <a href="/sverdle">Sverdle</a> page illustrates SvelteKit's data loading and form handling. Try
-		using it with JavaScript disabled!
-	</p>
+	<div class="content">
+		<h1>We are Ekon</h1>
+		<p>
+			We are a think tank at the African Leadership University. We created this game to raise funds
+			to fight against child malnutrition in Rwanda.
+		</p>
+		<p>We also hope that by playing our game, you may learn more about Africa.</p>
+	</div>
 </div>
+
+<style>
+	h1 {
+		font-family: 'Tribeca';
+		font-size: 3.5rem;
+		text-align: center;
+		margin-bottom: 50px;
+	}
+
+	p {
+		text-align: center;
+	}
+	.text-column {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		height: 80vh;
+	}
+
+	.content {
+		max-width: 800px;
+		padding: 15px;
+	}
+</style>
