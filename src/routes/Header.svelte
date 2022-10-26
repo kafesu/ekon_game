@@ -3,7 +3,7 @@
 </script>
 
 <header>
-	<div class="logo">EKON - African Trivia</div>
+	<div class="logo">EKON</div>
 	<nav>
 		<ul>
 			<li class:active={$page.url.pathname === '/'}>
@@ -17,9 +17,6 @@
 			</li>
 		</ul>
 	</nav>
-	<div class="links">
-		<a>Follow us</a>
-	</div>
 </header>
 
 <style>
@@ -28,8 +25,7 @@
 		justify-content: space-between;
 	}
 
-	.logo,
-	.links {
+	.logo {
 		padding: 15px 10px;
 	}
 
@@ -47,5 +43,11 @@
 		font-weight: bold;
 		text-transform: uppercase;
 		color: white;
+	}
+
+	@media only screen and (max-width: 600px) {
+		header {
+			font-size: 0.8rem;
+		}
 	}
 </style>

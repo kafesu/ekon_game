@@ -68,8 +68,10 @@
 					<button
 						on:click={(event) => {
 							attempt(index, event.target);
-						}}><strong>{possibleAnswer}</strong></button
+						}}
 					>
+						{possibleAnswer}
+					</button>
 				{/each}
 			</div>
 		</div>
@@ -78,7 +80,7 @@
 			<div class="end" use:confetti />
 			<img src="./treasure-chest.png" alt="Treasure chest" />
 			<h1>{points} XP</h1>
-			{tags[(points - 50) / 10]}
+			"Play again"
 			<audio src="/final-success.mp3" autoplay={true} />
 		</div>
 	{/if}

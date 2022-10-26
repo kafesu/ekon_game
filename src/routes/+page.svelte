@@ -6,7 +6,7 @@
 <section>
 	<div class="content">
 		<p class="africa-text">n</p>
-		<p>
+		<p class="normal">
 			When you play our African Trivia game, we make money through web monetisation and our proceeds
 			are donated towards a charity fighting child malnutrition in Africa
 		</p>
@@ -24,6 +24,7 @@
 		height: 85vh;
 		background-image: url('https://img.freepik.com/free-vector/flat-african-pattern-design_23-2149376292.jpg?w=2000');
 		background-repeat: repeat;
+		padding: 10px;
 	}
 
 	a {
@@ -32,6 +33,10 @@
 		color: rgb(41, 20, 10);
 		text-decoration: none;
 		font-weight: bold;
+	}
+
+	.normal {
+		color: white;
 	}
 
 	.content {
