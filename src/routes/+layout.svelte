@@ -4,15 +4,15 @@
 </script>
 
 <div class="app">
-	<Header />
+	<header>
+		<Header />
+	</header>
 
 	<main>
 		<slot />
 	</main>
 
-	<footer>
-		<p>Made with ❤️ by Ekon Think tank in Kigali</p>
-	</footer>
+	<footer>Made with ❤️ by Ekon Think Tank in Kigali</footer>
 </div>
 
 <style>
@@ -22,27 +22,26 @@
 		min-height: 100vh;
 	}
 
+	header {
+		height: 7vh;
+	}
+
 	main {
-		flex: 1;
-		display: flex;
-		flex-direction: column;
 		width: 100%;
-		margin: 0 auto;
-		box-sizing: border-box;
-		height: 100%;
+		height: 88vh;
 	}
 
 	footer {
 		display: flex;
-		flex-direction: column;
 		justify-content: center;
 		align-items: center;
-		padding: 12px;
+		height: 5vh;
+		font-size: 0.75rem;
 	}
 
-	@media (min-width: 480px) {
+	@media (max-width: 480px) {
 		footer {
-			padding: 12px 0;
+			padding: 5px;
 		}
 	}
 </style>

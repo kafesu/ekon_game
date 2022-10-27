@@ -21,7 +21,7 @@
 		justify-content: center;
 		align-items: center;
 		color: rgb(223, 126, 82);
-		height: 85vh;
+		height: 100%;
 		background-image: url('https://img.freepik.com/free-vector/flat-african-pattern-design_23-2149376292.jpg?w=2000');
 		background-repeat: repeat;
 		padding: 10px;

@@ -1,0 +1,427 @@
+[
+	{
+		"prompt": "What is the capital city of Kenya?",
+		"possibleAnswers": ["Harare", "Nairobi", "Kigali", "Bujumbura"],
+		"correctAnswer": 1
+	},
+	{
+		"prompt": "In which Country is Aswan Dam?",
+		"possibleAnswers": ["Ghana", "Malawi", "Egypt", "Tanzania"],
+		"correctAnswer": 2
+	},
+	{
+		"prompt": "Which Country has the Rand as its currency?",
+		"possibleAnswers": ["Tunisia", "Djibouti", "South Africa", "Madagascar"],
+		"correctAnswer": 2
+	},
+	{
+		"prompt": "Which volcano mountain is the highest in Africa?",
+		"possibleAnswers": ["Kilimanjaro", "Karisimbi", "Nyiragongo", "Nyamuragira"],
+		"correctAnswer": 0
+	},
+	{
+		"prompt": "Which is the second longest river in Africa?",
+		"possibleAnswers": ["Congo River", "River Nile ", "Niger", "Zambezi River"],
+		"correctAnswer": 0
+	},
+	{
+		"prompt": "What is the capital of Sierra Leone?",
+		"possibleAnswers": ["Dakar", "Maputo", "Lusaka", "Freetown"],
+		"correctAnswer": 3
+	},
+	{
+		"prompt": "Which 100-mile long waterway links the Mediterranean and the Red Sea?",
+		"possibleAnswers": ["Suez Canal", "The Zambezi", "The Niger", "Beneu"],
+		"correctAnswer": 0
+	},
+	{
+		"prompt": "What does ANC stand for?",
+		"possibleAnswers": [
+			"African Natives Community",
+			"African Negros Community",
+			"African National Congress",
+			"African National Community "
+		],
+		"correctAnswer": 2
+	},
+	{
+		"prompt": "Which country is the island of Zanzibar part of?",
+		"possibleAnswers": ["Kenya", "Tanzania", "Madagascar", "Mozambique"],
+		"correctAnswer": 1
+	},
+	{
+		"prompt": "In which country are Tangier and Casablanca?",
+		"possibleAnswers": ["Algeria", "Egypt", "Tunisia", "Morocco"],
+		"correctAnswer": 3
+	},
+	{
+		"prompt": "Mount Toubkai is the highest peak of which range of mountains?",
+		"possibleAnswers": ["Lebombo Mountains", "Atlas Mountains", "Drakensberg", "High Atlas"],
+		"correctAnswer": 1
+	},
+	{
+		"prompt": "Afrikaans is a variety of which European language?",
+		"possibleAnswers": ["German", "French", "Dutch", "Portuguese"],
+		"correctAnswer": 2
+	},
+	{
+		"prompt": "What is the former name of the People's Republic of Benin?",
+		"possibleAnswers": [
+			"Dahomey",
+			"People's Republic of Benin",
+			"Economic Freedom Fighters",
+			"National Freedom Party"
+		],
+		"correctAnswer": 0
+	},
+	{
+		"prompt": "Which country unilaterally declared independence in November 1965?",
+		"possibleAnswers": ["Zambia", "Zimbabwe", "Ethiopia", "Chad"],
+		"correctAnswer": 1
+	},
+	{
+		"prompt": "What is Africa's largest country?",
+		"possibleAnswers": ["Democratic Republic of Congo", "Algeria", "South Africa", "Sudan"],
+		"correctAnswer": 3
+	},
+	{
+		"prompt": "Which African country is sandwiched between Ghana and Benin?",
+		"possibleAnswers": ["Côte D'Ivoire", "Guinea-Bissau", "Togo", "Gambia"],
+		"correctAnswer": 2
+	},
+	{
+		"prompt": "Which country is the home of the Ashanti?",
+		"possibleAnswers": ["Seychelles", "Ghana", "Mauritania", "Sao Tome & Principe"],
+		"correctAnswer": 1
+	},
+	{
+		"prompt": "Which country was called Upper Volta until 1984?",
+		"possibleAnswers": ["Cameroon", "Eswatini", "Senegal", "Burkina Faso"],
+		"correctAnswer": 3
+	},
+	{
+		"prompt": "Which explorer was the first to reach the Cape of Good Hope?",
+		"possibleAnswers": [
+			"Bartolomeu Diaz",
+			"Vasco da Gama",
+			"Henry the Navigator",
+			"Ferdinand Magellan"
+		],
+		"correctAnswer": 0
+	},
+	{
+		"prompt": "In which country are the towns of Gweru and Kwekwe?",
+		"possibleAnswers": ["Botswana", "Zimbabwe", "Gabon", "Mali"],
+		"correctAnswer": 1
+	},
+	{
+		"prompt": "Where did Idi Amin rule from 1971 -1979?",
+		"possibleAnswers": ["Uganda", "Kenya", "Sudan", "Chad"],
+		"correctAnswer": 0
+	},
+	{
+		"prompt": "Who was the Egyptian president who was assassinated in 1981?",
+		"possibleAnswers": ["Anwar Sadat", "Patrice Lumumba", "Farag Foda", "Amílcar Cabral"],
+		"correctAnswer": 0
+	},
+	{
+		"prompt": "Which country mainly makes up the Horn of Africa?",
+		"possibleAnswers": ["Djibouti", "Ethiopia", "Somalia", "Kenya"],
+		"correctAnswer": 2
+	},
+	{
+		"prompt": "In which country are the ruins of ancient Carthage?",
+		"possibleAnswers": ["Algeria", "Mauritius", "Namibia", "Tunisia"],
+		"correctAnswer": 3
+	},
+	{
+		"prompt": "In which country does the White Nile leave Lake Victoria?",
+		"possibleAnswers": ["Egypt", "Burkina Faso", "Uganda", "South Sudan"],
+		"correctAnswer": 2
+	},
+	{
+		"prompt": "Which actor won an Academy Award for his performance in The African Queen?",
+		"possibleAnswers": ["Humphrey Bogart", "Katharine Hepburn", "Lupita Nyong'o", "Daniel Kaluuya"],
+		"correctAnswer": 0
+	},
+	{
+		"prompt": "On the border of which two countries is the Victoria Falls?",
+		"possibleAnswers": [
+			"Namibia and Botswana",
+			"Zambia and  Zimbabwe",
+			"Kenya and Tanzania",
+			"Mali and Algeria"
+		],
+		"correctAnswer": 1
+	},
+	{
+		"prompt": "Who was the woman sentenced to six years in jail after the murder of Stompei Seipi?",
+		"possibleAnswers": ["Wangari Mathai", "Aoua Keita", "Winnie Mandela", "Miriam Makeba"],
+		"correctAnswer": 2
+	},
+	{
+		"prompt": "In and around which desert do the Bushmen live?",
+		"possibleAnswers": ["Sahara desert", "Dankil desert", "Kalahari desert", "Namib desert"],
+		"correctAnswer": 2
+	},
+	{
+		"prompt": "Which country in Africa has a national park in the Capital",
+		"possibleAnswers": ["Angola", "Uganda", "Kenya", "Gabon"],
+		"correctAnswer": 2
+	},
+	{
+		"prompt": "Which country in africa has most female members in the parliament?",
+		"possibleAnswers": ["Rwanda", "kenya", "Burundi", "Nigeria"],
+		"correctAnswer": 0
+	},
+	{
+		"prompt": "Which African counrty is the Head Quarter of the UNEP Located",
+		"possibleAnswers": ["South Africa", "Nigeria", "Kenya", "Morrocco"],
+		"correctAnswer": 2
+	},
+	{
+		"prompt": "Where is the second highest mountain in africa ?",
+		"possibleAnswers": ["Angola", "Kenya", "Ghana", "Egypt"],
+		"correctAnswer": 1
+	},
+	{
+		"prompt": "what is the largest country in africa",
+		"possibleAnswers": ["nigeria", "Algeria", "Uganda", "Malawi"],
+		"correctAnswer": 1
+	},
+	{
+		"prompt": "The Zambezi and which other river define the borders of Zimbabwe?",
+		"possibleAnswers": ["Limpopo", "Orange river", "Kasai", "Cubango"],
+		"correctAnswer": 0
+	},
+	{
+		"prompt": "which african country is very famous for chocolate?",
+		"possibleAnswers": ["Rwanda", "Kenya", "Nigeria", "Cote D'Ivore"],
+		"correctAnswer": 3
+	},
+	{
+		"prompt": "Which is the northernmost city in Africa?",
+		"possibleAnswers": ["Alexandria", "Bizerte", "Tunis", "Sfax"],
+		"correctAnswer": 1
+	},
+	{
+		"prompt": "which country had bantu tribes settle in the region about 500 BC",
+		"possibleAnswers": ["Rwanda", "Kenya", "Gabon", "Tunisia"],
+		"correctAnswer": 1
+	},
+	{
+		"prompt": "Which is the capital of the country that used to be called Abyssinia?",
+		"possibleAnswers": ["Djibouti", "Addis Ababa", "Accra", "Nairobi"],
+		"correctAnswer": 1
+	},
+	{
+		"prompt": "Which is the deadliest animal in Africa?",
+		"possibleAnswers": ["Rhinocerous", "Crocodile", " Hippopotamus", "Lion"],
+		"correctAnswer": 2
+	},
+	{
+		"prompt": "In which country is the Kalahari Desert?",
+		"possibleAnswers": ["Tunisia", "Morocco", "Botswana", "Namibia"],
+		"correctAnswer": 2
+	},
+	{
+		"prompt": "What type of government does Kenya have?",
+		"possibleAnswers": [
+			"Parliamentary democracy",
+			"Dictatorship",
+			"Presidential Democracy",
+			"Autocratic"
+		],
+		"correctAnswer": 2
+	},
+	{
+		"prompt": "Where is the Nubian Desert?",
+		"possibleAnswers": ["Egypt", "Chad", "Swaziland", "Sudan"],
+		"correctAnswer": 3
+	},
+	{
+		"prompt": "What is known as the White Gold of Egypt?",
+		"possibleAnswers": ["Cotton", "Wool", "Milk", "Salt"],
+		"correctAnswer": 0
+	},
+	{
+		"prompt": "What is the richest country in Africa?",
+		"possibleAnswers": ["South Africa", "Kenya", "Democratic Republic of the Congo", "Egypt"],
+		"correctAnswer": 0
+	},
+	{
+		"prompt": "On which river is Brazzaville?",
+		"possibleAnswers": ["Democratic Republic of the Congo", "South Sudan", "Lesotho", "Mozambique"],
+		"correctAnswer": 0
+	},
+	{
+		"prompt": "When was the Gold Coast renamed as Ghana?",
+		"possibleAnswers": ["1957", "1958", "1956", "1959"],
+		"correctAnswer": 0
+	},
+	{
+		"prompt": "How many countries are in Africa?",
+		"possibleAnswers": ["55", "54", "50", "52"],
+		"correctAnswer": 1
+	},
+	{
+		"prompt": "Which major city developed as a consequence of the boom in the Witwatersrand?",
+		"possibleAnswers": ["Port Elizabeth", "Durban", "Pretoria", "Johannesburg"],
+		"correctAnswer": 3
+	},
+	{
+		"prompt": "Which was the largest of the French West African countries in area?",
+		"possibleAnswers": ["Eswatini", "Gabon", "Mali", "Mozambique"],
+		"correctAnswer": 2
+	},
+	{
+		"prompt": "In which African counrty were free slaves relocated?",
+		"possibleAnswers": ["Liberia ", "Libya", "Ghana", "Angola"],
+		"correctAnswer": 0
+	},
+	{
+		"prompt": "What is the safest country in Africa?",
+		"possibleAnswers": ["Mauritius", "Egypt", "Uganda", "Rwanda"],
+		"correctAnswer": 0
+	},
+	{
+		"prompt": "Which island nation is geographically considered part of Africa has an Indian population in the majority?",
+		"possibleAnswers": ["Seychelles", "Madagascar", "Mauritius", "Cape Verde"],
+		"correctAnswer": 1
+	},
+	{
+		"prompt": "What was Malawi once called?",
+		"possibleAnswers": ["Dahomey", "Zaire", "Nyasaland", "Abyssinia"],
+		"correctAnswer": 2
+	},
+	{
+		"prompt": "Who was the founder of the Back to Africa movement who partly inspired Rastafarianism?",
+		"possibleAnswers": ["Marcus Garvey", "Nelson Mandela", "Robert Mugabe", "Patrice Lumumba"],
+		"correctAnswer": 0
+	},
+	{
+		"prompt": "Which country is known as the rainbow country?",
+		"possibleAnswers": ["South Africa", "Zambia", "Gabon", "Sao Tome and Principe"],
+		"correctAnswer": 0
+	},
+	{
+		"prompt": "Which is the capital of Madagascar?",
+		"possibleAnswers": ["Mahdia", "Sidi Bou Said", "Antananarivo", "Nabeul"],
+		"correctAnswer": 2
+	},
+	{
+		"prompt": "Which country has the largest number of pyramids in the world?",
+		"possibleAnswers": ["Egypt", "Sudan", "Tunisia", "Algeria"],
+		"correctAnswer": 1
+	},
+	{
+		"prompt": "Which is the largest man-made mortarless structure?",
+		"possibleAnswers": ["Great Zimbabwe", "Mapungubwe", "Khami ruins", "The Great Pyramid of Giza"],
+		"correctAnswer": 0
+	},
+	{
+		"prompt": "Which country has the largest freshwater lake?",
+		"possibleAnswers": ["Democratic Republic of Congo", "Rwanda", "Uganda", "Ghana"],
+		"correctAnswer": 2
+	},
+	{
+		"prompt": "In which country is the Namib desert located?",
+		"possibleAnswers": ["Namibia", "Botswana", "Zimbabwe", "Zambia"],
+		"correctAnswer": 0
+	},
+	{
+		"prompt": "Which river is the longest in Africa?",
+		"possibleAnswers": ["Amazon", "Nile", "Congo", "Zambezi"],
+		"correctAnswer": 0
+	},
+	{
+		"prompt": "What is the name shared by the currency units of Algeria and Tunisia?",
+		"possibleAnswers": ["Shillings", "Rand", "Francs", "Dinar"],
+		"correctAnswer": 3
+	},
+	{
+		"prompt": "Which country has music as its biggest export in Africa?",
+		"possibleAnswers": ["Zambia", "South Africa", "Morroco", "Democratic Republic of Congo"],
+		"correctAnswer": 3
+	},
+	{
+		"prompt": "What is the lowest point in Africa?",
+		"possibleAnswers": ["Lake Kivu", "Lake Albert", "Lake Assal", "Lake Edward"],
+		"correctAnswer": 2
+	},
+	{
+		"prompt": "What is the highest temperature ever recorded in Africa?",
+		"possibleAnswers": [
+			"28.25°C observed in Burkina Faso",
+			"51.3°C observed in Ouargla",
+			"47.4°C observed in Tunis",
+			"55.0°C observed in Kebili"
+		],
+		"correctAnswer": 3
+	},
+	{
+		"prompt": "Which African country has the largest elephant population in Africa?",
+		"possibleAnswers": ["Zimbabwe", "Botswana", "South Africa", "Zambia"],
+		"correctAnswer": 1
+	},
+	{
+		"prompt": "Which sea separates the continent of Asia and Africa?",
+		"possibleAnswers": [" Mediterranean sea", "Red Sea", "Melilla Bay", "Black Sea"],
+		"correctAnswer": 1
+	},
+	{
+		"prompt": "Which country is known as the horn of Africa?",
+		"possibleAnswers": ["Somalia", "South Africa", "Egypt", "Morocco"],
+		"correctAnswer": 0
+	},
+	{
+		"prompt": "Which country is famous for its Arabica and Robusta coffee?",
+		"possibleAnswers": ["Ethiopia", "Kenya", "Ghana", "Sierra Leone"],
+		"correctAnswer": 0
+	},
+	{
+		"prompt": "The largest city in Africa is",
+		"possibleAnswers": ["Lagos", "Luanda", "Accra", "Cairo"],
+		"correctAnswer": 3
+	},
+	{
+		"prompt": "Which country has the 4th most important city in the Islamic world?",
+		"possibleAnswers": ["Tunisia", "Algeria", "Egypt", "Morocco"],
+		"correctAnswer": 0
+	},
+	{
+		"prompt": "In which country is the Garamba National Park located?",
+		"possibleAnswers": ["Uganda", "Congo", "Eswatini", "Lesotho"],
+		"correctAnswer": 1
+	},
+	{
+		"prompt": "Which country is the largest oil producing nation in Africa?",
+		"possibleAnswers": ["Ethiopia", "South Africa", "Nigeria", "Ghana"],
+		"correctAnswer": 2
+	},
+	{
+		"prompt": "Who was the first elected female head of state in Africa?",
+		"possibleAnswers": [
+			"Ellen Johnson Sirleaf",
+			"Slyvie Kiningi",
+			"Joyce Banda",
+			"Samia Sluhu Hassan"
+		],
+		"correctAnswer": 0
+	},
+	{
+		"prompt": "Marrakesh city in Morocco is also known as?",
+		"possibleAnswers": ["Black city", "White city", "Red city", "Blue city"],
+		"correctAnswer": 2
+	},
+	{
+		"prompt": "Which is the largest desert in Africa?",
+		"possibleAnswers": ["Arabia", "Karoo Desert", "Sahara Desert", "Namib Desert"],
+		"correctAnswer": 2
+	},
+	{
+		"prompt": "Which of the following straits separates Europe from Africa?",
+		"possibleAnswers": ["Berring", "Dobar", "Gibralter", "Mulucca"],
+		"correctAnswer": 2
+	}
+]
