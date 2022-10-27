@@ -22,7 +22,7 @@
 		display: flex;
 		align-items: center;
 		justify-content: center;
-		padding: 20px;
+		padding: 10px;
 		background-color: rgb(133, 61, 28);
 		box-shadow: 8px 8px 20px black;
 		border-radius: 10px;
