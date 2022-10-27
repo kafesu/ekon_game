@@ -23,7 +23,7 @@
 </script>
 
 <section>
-	{#if currentQuestion.done}
+	{#if !currentQuestion.done}
 		<Question on:answered={changeQuestion} question={currentQuestion.value} />
 	{:else}
 		<div class="score-display">
