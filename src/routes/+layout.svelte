@@ -32,6 +32,12 @@
 	}
 
 	footer {
+		position: fixed;
+		bottom: 10px;
+		width: 300px;
+		left: calc(50% - 150px);
+		background-color: rgb(255, 255, 0);
+		color: black;
 		display: flex;
 		justify-content: center;
 		align-items: center;

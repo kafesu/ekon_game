@@ -12,7 +12,7 @@
 			<li class:active={$page.url.pathname === '/about'}>
 				<a href="/about">About</a>
 			</li>
-			<li class:active={$page.url.pathname.startsWith('/sverdle')}>
+			<li class:active={$page.url.pathname === '/play'}>
 				<a href="/play">Play</a>
 			</li>
 		</ul>

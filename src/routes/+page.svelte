@@ -7,10 +7,9 @@
 	<div class="content">
 		<p class="africa-text">n</p>
 		<p class="normal">
-			When you play our African Trivia game, we make money through web monetisation and our proceeds
-			are donated towards a charity fighting child malnutrition in Africa
+			We are EKON, an ALU thinktank on a mission to reduce suicide rates among students in Nigeria
 		</p>
-		<a href="/play">Play to make a difference</a>
+		<a href="/about">Read more about us</a>
 	</div>
 </section>
 
