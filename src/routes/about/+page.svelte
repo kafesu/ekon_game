@@ -16,20 +16,3 @@
 		<Team />
 	</div>
 </div>
-
-<style>
-	h1,
-	h2 {
-		font-family: 'Tribeca';
-		text-align: center;
-		margin: 20px 0;
-	}
-
-	h1 {
-		font-size: 3.5rem;
-	}
-
-	p {
-		text-align: center;
-	}
-</style>

@@ -14,5 +14,6 @@
 
 	h1 {
 		font-size: 4rem;
+		font-family: 'Tribeca';
 	}
 </style>

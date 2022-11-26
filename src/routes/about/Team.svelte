@@ -38,12 +38,25 @@
 	h2 {
 		text-align: center;
 		font-size: 2rem;
+		font-family: 'Tribeca';
 	}
 
 	div {
 		display: grid;
-		grid-template-columns: 1fr 1fr 1fr;
+		grid-template-columns: 1fr;
 		row-gap: 40px;
 		padding: 50px;
+	}
+
+	@media (min-width: 600px) {
+		div {
+			grid-template-columns: 1fr 1fr;
+		}
+	}
+
+	@media (min-width: 800px) {
+		div {
+			grid-template-columns: 1fr 1fr 1fr;
+		}
 	}
 </style>

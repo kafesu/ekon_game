@@ -1,6 +1,5 @@
 <script>
 	export let name, img, bio;
-	let showBio = false;
 </script>
 
 <div class="card">
@@ -18,12 +17,15 @@
 
 	p {
 		text-align: center;
-		color: lightgray;
+		color: white;
+		font-size: 0.9rem;
 	}
 
 	h3 {
-		font-size: 1.5rem;
+		font-size: 1.7rem;
 		text-align: center;
+		margin: 20px 0px;
+		color: rgb(255, 255, 164);
 	}
 
 	img {
