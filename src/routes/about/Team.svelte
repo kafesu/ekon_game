@@ -17,13 +17,15 @@
 			bio: "A Software Developer and Entrepreneur passionate and curious about how software can be used to solve Africa's problems.",
 			img: '/team/anesu-kafesu.jpg'
 		},
-		{ name: 'Esther Umunyana', bio: '', img: '/team/esther-umunyana.jpg' },
+		{ name: 'Esther Umunyana', bio: 'Mental health advocate and technology fanatic. Interested in bringing the two world together to help people with mental health challenges.', img: '/team/esther-umunyana.jpg' },
 		{
 			name: 'Elvis Guy Bakunzi',
 			bio: "I'm Elvis, and I am currently interested in Software engineering but looking for a way to break into the industry at ALU",
 			img: '/team/elvis-guy-bakunzi.jpg'
 		},
-		{ name: "Jeremiah Nga'nga", bio: '', img: '/team/jeremiah-nganga.jpg' }
+		{ name: "Jeremiah Nga'nga", bio: 'I am passionate about entrepreneurship and business creation bringing forth to the team an open mind ready to explore opportunities. 
+
+My Mantra is if it’s legal and ethical just f#cking do it , Grind Win Repeat', img: '/team/jeremiah-nganga.jpg' }
 	];
 </script>
 
