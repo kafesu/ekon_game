@@ -23,9 +23,7 @@
 			bio: "I'm Elvis, and I am currently interested in Software engineering but looking for a way to break into the industry at ALU",
 			img: '/team/elvis-guy-bakunzi.jpg'
 		},
-		{ name: "Jeremiah Nga'nga", bio: 'I am passionate about entrepreneurship and business creation bringing forth to the team an open mind ready to explore opportunities. 
-
-My Mantra is if it’s legal and ethical just f#cking do it , Grind Win Repeat', img: '/team/jeremiah-nganga.jpg' }
+		{ name: "Jeremiah Nga'nga", bio: "I am passionate about entrepreneurship and business creation bringing forth to the team an open mind ready to explore opportunities. My Mantra is if it’s legal and ethical just f#cking do it , Grind Win Repeat", img: '/team/jeremiah-nganga.jpg' }
 	];
 </script>
 
