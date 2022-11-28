@@ -1,3 +1,7 @@
+<script>
+	import Timeline from './Timeline.svelte';
+</script>
+
 <svelte:head>
 	<title>Ekon - Home</title>
 	<meta name="description" content="Ekon food donation game" />
@@ -12,6 +16,9 @@
 		<a href="/about">Read more about us</a>
 	</div>
 </section>
+<div>
+	<Timeline/>
+</div>
 
 <style>
 	section {
