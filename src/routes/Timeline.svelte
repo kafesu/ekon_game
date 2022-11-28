@@ -160,7 +160,7 @@ img {
   display: grid;
   grid-template-columns: 1fr 3px 1fr;
   font-family: "Fira Sans", sans-serif;
-  color: #ffffff;
+  color: rgb(30, 30, 30);
 }
 
 .timeline__component {
@@ -169,11 +169,15 @@ img {
 
 .timeline__component--bg {
   padding: 1.5em;
-  background: rgba(255, 255, 255, 0.2);
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  background: yellow;
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
   border-radius: 10px;
 }
 
+
+.timeline__date {
+	color: lightgray;
+}
 /* LEAVE TILL LAST */
 .timeline__component--bottom {
   margin-bottom: 0;
@@ -191,7 +195,7 @@ img {
   transform: translateX(-50%);
   width: 15px;
   height: 15px;
-  background: #ffffff;
+  background: red;
   border-radius: 50%;
 }
 
@@ -209,6 +213,7 @@ img {
   margin: 0;
   font-size: 1.15em;
   font-weight: bold;
+  color: black;
 }
 
 .timeline__paragraph {
