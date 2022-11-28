@@ -10,7 +10,7 @@
 				<a href="/">Home</a>
 			</li>
 			<li class:active={$page.url.pathname === '/gallery'}>
-				<a href="/about">Gallery</a>
+				<a href="/gallery">Gallery</a>
 			</li>
 			<li class:active={$page.url.pathname === '/about'}>
 				<a href="/about">About</a>
