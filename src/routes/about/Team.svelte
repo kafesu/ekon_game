@@ -36,7 +36,7 @@
 
 <style>
 	h2 {
-		text-align: center;
+		text-align: center;git
 		font-size: 2rem;
 		font-family: 'Tribeca';
 	}
