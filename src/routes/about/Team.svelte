@@ -28,6 +28,9 @@
 </script>
 
 <h2>The Team</h2>
+<section>
+	<iframe width="420" height="315" src="https://www.youtube.com/embed/soA17Z2h-_k"> </iframe>
+</section>
 <div>
 	{#each team as { name, bio, img }}
 		<TeamCard {name} {bio} {img} />
@@ -46,6 +49,12 @@
 		grid-template-columns: 1fr;
 		row-gap: 40px;
 		padding: 50px;
+	}
+	
+	section {
+		display: grid;
+		align-items: center;
+		justify-content: center;
 	}
 
 	@media (min-width: 600px) {
