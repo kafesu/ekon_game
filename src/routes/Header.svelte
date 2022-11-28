@@ -18,11 +18,20 @@
 			<li class:active={$page.url.pathname === '/play'}>
 				<a href="/play">Play</a>
 			</li>
+			<li>
+				<a href="https://instagram.com/ekon_alu">
+					<img src="/Instagram.svg"/>
+				</a>
+			</li>
 		</ul>
 	</nav>
 </header>
 
 <style>
+	img {
+		height: 3vh; 
+	}
+	
 	header {
 		display: flex;
 		justify-content: space-between;
