@@ -81,6 +81,7 @@
     <p class="timeline__paragraph">
       We were tasked to make a slide deck to that will be used to fight against child malnutrition in a community and include a call to action. From this we learnt the importance of dividing and delegating the workload to make it simpler and faster because we divided the slide deck into different portions and everyone had a part to work on. We also managed to come up with a trivia game  that helps you get smarter while making a difference for people in Rwanda. Every question you answer correctly raises money to end malnutrition in Rwanda. Private sponsors match the right answers to donations generated within the game.
     </p>
+    <iframe src="https://www.youtube.com/embed/f0RjPLYhsuU"></iframe>
   </div>
   <div class="timeline__middle">
     <div class="timeline__point"></div>
@@ -100,6 +101,7 @@
     <h2 class="timeline__title">The $1 Impact Challenge</h2>
     <p class="timeline__paragraph">
      We were given a budget of 1$ to set off a chain of impact needed to solve our problem as a ThinkTank while incorporating our strengths. We decided to make a "Take what you need, Give what you can" board as a way of directly interacting with the students using different forms of Art, teaching them that Art therapy does not need them to visit a therapist to talk about their mental health but it could be in the simplest things like listening to a song that gets you dancing into a happy mood. We  also decided to make an online anonymous chat space for people to interact with each other and share different ways they have used art to cope with their mental health and for them to advise one another on different mental health issues.
+     <img src="https://drive.google.com/uc?export=view&id=1fipsgBbSewvgE-Pv7se8KgpJVw4J4O-I" alt="EKON presenting their $1 challenge solution"/>
     </p>
   </div>
     
@@ -109,6 +111,7 @@
     <p class="timeline__paragraph">
         We decided to spend time together in the wellness center and get to know each other a little bit more by playing game, specifically monopoly, and having a conversation on different topics.
     </p>
+    <img src="https://drive.google.com/uc?export=view&id=1bvt84ljfAtbLhQRxPu_HCvudNsVqc8Hs" alt="EKON team spending time in the wellness center"/>
   </div>
   <div class="timeline__middle">
     <div class="timeline__point"></div>
