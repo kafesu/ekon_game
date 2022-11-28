@@ -12,6 +12,7 @@
     <p class="timeline__paragraph">
       This was the day we formed ThinkTanks and chose our ThinkTank Leader, Annabella
     </p>
+    <img src="https://drive.google.com/uc?export=view&id=1a-In48o0nPAGeRZP1U5MXR_cX_QYTgD6" alt="EKON Members voting for a leader and deciding on a name">
   </div>
   
    <!--Row Two-->
@@ -20,6 +21,7 @@
     <p class="timeline__paragraph">
       This was the first challenge we had as a ThinkTank. It was a scavenger hunt around the campus were we had to take pictures as at every answer to a clue given. We had five phrases that we had to unravel to find the answer and then hed to the part of the school were that answer lay and take a picture next to it. The challenge was an exercise activity for both our minds and bodies. From the endless running to and from different clues to the problem-solving skills we each incorporated in order to find the answers, this challenge was a good bonding activity for us.
     </p>
+    <img src="https://drive.google.com/uc?export=view&id=1iaD_psrkHqxpJvfpPqKh6je1_-PuDpaB" alt="Ekon Members during the Scavenger hunt"/>
   </div>
   <div class="timeline__middle">
     <div class="timeline__point"></div>
@@ -27,6 +29,7 @@
   <div class="timeline__component">
     <div class="timeline__date">30 September 2022</div>
   </div>
+  
     <!--Row Three-->
   <div class="timeline__component">
     <div class="timeline__date timeline__date--right">12 October 2022</div>
@@ -39,13 +42,16 @@
     <p class="timeline__paragraph">
       Each member of the team had 30 seconds to share what they are passionate about, why and what they want to do to solvie it as well as what they bring to the team. This challenge enabled us to learn a little about who our team mates are and their strengths in rgard to what they bring to the team.
     </p>
+    <iframe src="https://www.youtube.com/embed/soA17Z2h-_k"> </iframe>
   </div>
+  
    <!--Row Four-->
   <div class="timeline__component timeline__component--bottom timeline__component--bg">
     <h2 class="timeline__title">Our mission</h2>
     <p class="timeline__paragraph">
       We made an infographic for our mission statement
     </p>
+    <img src="https://drive.google.com/uc?export=view&id=1XfPlYTgT1OXglSJz8sSL66-Da8eyoXWY" alt="The EKON Mission statement infographic"/>
   </div>
   <div class="timeline__middle">
     <div class="timeline__point"></div>
@@ -66,6 +72,7 @@
     <p class="timeline__paragraph">
       We were tasked to create a short story about an African Country of our choice highlighting a particular area and how it will look like in the next 35 years. We chose to work on food security in Zimbabwe highlighting the impact that the government of Zimbabwe, led at the time by former President Robert Mugabe, had in the early 2000's in redistributing land from the white farmers to the indigenous black people and how currently a new crop of young farmers is emerging and the future looks promising making food security in the next 35 years look promising for Zimbabwe.
     </p>
+    <img src="https://drive.google.com/uc?export=view&id=1QGan3xYxiVM2hY0s0z8dv_0TR5VrBk9J" alt="EKON's story board"/>
   </div>
     
   <!--Row Six-->
@@ -129,10 +136,19 @@
 
 <style>
 
+iframe {
+	width: 100%;
+	border: none;
+}
+
 .title {
 	font-size: 3rem;
 	text-align: center;
 	margin: 30px;
+}
+
+img {
+	width: 100%;
 }
 	.timeline {
   margin: 0 auto;
