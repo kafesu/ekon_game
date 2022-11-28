@@ -169,7 +169,7 @@ img {
 
 .timeline__component--bg {
   padding: 1.5em;
-  background: yellow;
+  background: orange;
   box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
   border-radius: 10px;
 }
