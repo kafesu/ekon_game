@@ -12,7 +12,9 @@ export const images = [
 	'https://drive.google.com/uc?export=view&id=1a-In48o0nPAGeRZP1U5MXR_cX_QYTgD6',
 	'https://drive.google.com/uc?export=view&id=1lnnnVstpdbfEycHkBzUnQDnn8nAbL9I0',
 	'https://drive.google.com/uc?export=view&id=1pSlv0Bs7Yna_2R2aTooUeXMbBK0xYlw6',
-	'https://drive.google.com/uc?export=view&id=102f53qPAvCG5FqPeIjP4TnodWHx89_y4'
+	'https://drive.google.com/uc?export=view&id=102f53qPAvCG5FqPeIjP4TnodWHx89_y4',
+	'https://drive.google.com/uc?export=view&id=1fipsgBbSewvgE-Pv7se8KgpJVw4J4O-I',
+	'https://drive.google.com/uc?export=view&id=1bvt84ljfAtbLhQRxPu_HCvudNsVqc8Hs'
 ];
 
 
